@@ -1,4 +1,4 @@
-<img src="PEVR-README/PEVRicon.png" width = "15%">
+<img src="PEVR-README/PEVRicon.png" width = "15%"> 
 
 ---
 
